@@ -1,2 +1,2 @@
-# 3D-Computer Graphics Renderer
-C++和SDL2图形库构建3D场景渲染与漫游功能的渲染器
+# U3D_Dive_Game_Document
+Unity3D模拟独立游戏策划案相关文档
